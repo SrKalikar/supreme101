@@ -140,3 +140,23 @@ div.news_feed{border:1px solid grey;border-radius:10px;margin-left:850px;margin-
 
 
 #img121{height:50px;width:50px;margin-left:310px;margin-bottom:-50px;}
+
+div.about_section{
+	border:1px solid grey;
+	border-radius:10px;
+	font-family:verdana;
+	margin-top:50px;
+    margin-right:410px;
+}
+#d23{margin-left:10px;
+color:#505050;
+}
+#d24{margin-left:10px;
+color:#505050;}
+p.few_words{margin-left:10px;
+margin-right:10px;
+color:#505050;
+}
+p.few_words1{margin-left:10px;
+margin-right:10px;
+color:#505050;
