@@ -1,0 +1,142 @@
+h3.ghr12{
+	font-size:35px;
+	font-color:#0000FF;
+    font-family:verdanan;
+	}
+
+h2.header121{margin-bottom:10px;margin-top:10px;}	
+	
+img.img12 {
+	margin-bottom:-40px;
+	margin-top:20px;
+	margin-left:330px;
+	height:50px;
+	width:50px;
+	border:1px;
+}
+div.stu12{
+	
+   
+}
+
+div.button123{
+	border:2px;
+	border-color:light blue;
+	border-style:bold;
+	height:45px;
+	width:150px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family:verdana;
+}
+
+/* Links - change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+div.log121{border:1px solid blue;border-radius:10px;margin-left:1240px;margin-bottom:50px;margin-top:-65px;height:20px;color:white;background-color: #ddd;}
+div.log121:hover{background-color: #3e8e41;color: white;box-sizing:border-box}
+
+ /*Slideshow container*/
+.slideshow-container {
+  max-width: 800px;
+  position:left; 
+  margin-top:90px;
+  max-height:500px;
+  
+}
+div.rpg{border:solid grey 1px;border-radius:10px;width:800px;height:500px;margin-top:20px;}
+#rpgp{ margin-left:10px;}
+ /*Hide the images by default*/ 
+.mySlides {
+  display: none;
+}
+
+
+
+ /*Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  display:inner-block;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+ /*Number text (1/3 etc)*/ 
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  display:inner-block;
+  top: 0;
+}
+
+ /*The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 5s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+ /*Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 10s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+
+
+
+
+div.news_feed{border:1px solid grey;border-radius:10px;margin-left:850px;margin-top:-145px;margin-right:10px;width:400px;height:300px;}
+#we2332{margin-left:10px;color:#ff8020;}
+#we2333{margin-left:10px;}
+#we2334{margin-left:10px;}
+#we2335{margin-left:10px;}
+#we2336{margin-left:10px;}
+#we2337{margin-left:10px;}
+#we2338{margin-left:10px;}
+#we2339{margin-left:10px;}
+
+
+#img121{height:50px;width:50px;margin-left:310px;margin-bottom:-50px;}
